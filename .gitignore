@@ -1,7 +1,8 @@
 .idea/*
-__pychace__/*
+__pycache__/*
 *.log
 lang/*
 state_storage
 temp_time_storage
 users_offsets
+schedules.db
